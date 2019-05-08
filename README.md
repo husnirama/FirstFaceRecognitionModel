@@ -1,2 +1,2 @@
-# FirstFaceRecognitionModel
-Facce detection and predictions model
+# First Face Recognition Model
+Face detection and predictions model
